@@ -1,4 +1,4 @@
-NextBus: AdafruitIO-Arduino Integration
+#H1 NextBus: AdafruitIO-Arduino Integration
 
 This Arduino modifies the Adafruit MQTT Library ESP8266 
 (https://github.com/adafruit/Adafruit_MQTT_Library) to 
